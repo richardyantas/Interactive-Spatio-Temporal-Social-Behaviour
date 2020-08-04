@@ -1,0 +1,6 @@
+/home/serendipita/Documents/glfwexample/ext/glfw/include/GLFW/glfw3.h:4694: warning: argument 'joystick' of command @param is not found in the argument list of glfwSetJoystickUserPointer(int jid, void *pointer)
+/home/serendipita/Documents/glfwexample/ext/glfw/include/GLFW/glfw3.h:4718: warning: The following parameters of glfwSetJoystickUserPointer(int jid, void *pointer) are not documented:
+  parameter 'jid'
+/home/serendipita/Documents/glfwexample/ext/glfw/include/GLFW/glfw3.h:4720: warning: argument 'joystick' of command @param is not found in the argument list of glfwGetJoystickUserPointer(int jid)
+/home/serendipita/Documents/glfwexample/ext/glfw/include/GLFW/glfw3.h:4742: warning: The following parameters of glfwGetJoystickUserPointer(int jid) are not documented:
+  parameter 'jid'
